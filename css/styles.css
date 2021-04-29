@@ -138,7 +138,7 @@
 @-webkit-keyframes top {
   from {
     opacity: 0;
-    bottom: : -600px;
+    bottom: -600px;
   }
 
   to {
